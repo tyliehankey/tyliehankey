@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Meine Biografie</title>
+    <!-- Fügen Sie hier weitere Meta-Tags hinzu, wenn gewünscht -->
+    <!-- Zum Beispiel: <meta name="author" content="Ihr Name"> -->
+</head>
+<body>
+    <header>
+        <h1>Meine Biografie</h1>
+    </header>
+    
+    <nav>
+        <!-- Hier können Sie Navigationslinks zu verschiedenen Abschnitten Ihrer Biografie hinzufügen -->
+        <!-- Zum Beispiel: <a href="#fruehes-leben">Frühes Leben</a> -->
+    </nav>
+
+    <main>
+        <section id="fruehes-leben">
+            <h2>Frühes Leben</h2>
+            <!-- Hier fügen Sie Informationen über Ihr frühes Leben hinzu -->
+            <!-- Zum Beispiel: <p>Geboren am 1. Januar 19XX in Stadt, Land.</p> -->
+        </section>
+
+        <section id="karriere">
+            <h2>Karriere</h2>
+            <!-- Hier fügen Sie Informationen über Ihre berufliche Laufbahn hinzu -->
+        </section>
+
+        <section id="erfolge">
+            <h2>Erfolge</h2>
+            <!-- Hier fügen Sie Informationen über Ihre Erfolge hinzu -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Hier können Sie Informationen für den Footer der Website hinzufügen -->
+    </footer>
+</body>
+</html>
