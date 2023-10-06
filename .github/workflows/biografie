@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Meine Biografie</title>
+</head>
+<body>
+    <header>
+        <h1>Meine Biografie</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#fruehes-leben">Frühes Leben</a></li>
+            <li><a href="#karriere">Karriere</a></li>
+            <li><a href="#erfolge">Erfolge</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="fruehes-leben">
+            <h2>Frühes Leben</h2>
+            <p>Geboren am 1. Januar 19XX in Stadt, Land.</p>
+            <p>Weitere Informationen über Ihr frühes Leben hier...</p>
+        </section>
+
+        <section id="karriere">
+            <h2>Karriere</h2>
+            <p>Ihre berufliche Laufbahn in diesem Abschnitt beschreiben.</p>
+        </section>
+
+        <section id="erfolge">
+            <h2>Erfolge</h2>
+            <p>Informationen über Ihre Erfolge hier hinzufügen.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Kontaktinformationen oder sonstige Informationen für den Footer.</p>
+    </footer>
+</body>
+</html>
